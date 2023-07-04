@@ -6,12 +6,10 @@ function App() {
   return (
     <>
       <div>
-        <Example />
+          <Example />
+          <Tabs/>
       </div>
 
-      <div>
-        <Tabs />
-      </div>
     </>
   );
 }
